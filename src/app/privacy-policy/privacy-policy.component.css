@@ -1,0 +1,9 @@
+.privacy {
+  margin-top: 150px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .privacy {
+    margin-top: 75px;
+  }
+}
